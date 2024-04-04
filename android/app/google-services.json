@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944821509879",
+    "project_id": "enjoyfood-52f30",
+    "storage_bucket": "enjoyfood-52f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944821509879:android:6ac8615a4d32eaa65dbdf2",
+        "android_client_info": {
+          "package_name": "com.example.enjoy_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvcMXIy_5xbWbKSQyQMuFuSkOdMwKixSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
